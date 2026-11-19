@@ -39,5 +39,6 @@ The 2008 financial crisis reshaped the relationship between macroeconomic fundam
 - Results depend partly on the Cholesky ordering and model specification.
 - The analysis ends in December 2019.
 
-## Project Report
-See the complete research report: `Beyond_the_2008_Crisis.pdf`
+## Project Report## Project Report
+
+[View the complete research report (PDF)](./Beyond the 2008-Crisis How Did Macroeconomic Forces Reshape the US Housing Market.pdf)
